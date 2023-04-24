@@ -145,7 +145,7 @@ header .navigation a:hover{
 
 .media-icons{
     display:flex;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
     margin:auto;
 }
