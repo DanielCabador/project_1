@@ -28,7 +28,15 @@
     width: 100%;
     border-radius: 10px;
     margin:30px;
+    
   }
+
+  img:hover{
+    transform:scale(1.1)
+  }
+  
+
+  
   .description {
     margin-top: 10px;
     text-align: center;
